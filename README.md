@@ -49,15 +49,3 @@ Welcome to the Daraz Web Scraper project! This tool will help you gather data fr
    python collect.py
    ```
 
-## ⚠️ Notes
-
-- Ensure that you have a stable internet connection while running the scripts.
-- Be mindful of Daraz's scraping policies to avoid potential issues.
-
-## 🎨 Customization
-
-Feel free to customize the script to fit your specific needs. For any enhancements or bug fixes, please contribute or reach out!
-
----
-
-Hope this helps! Let me know if you need any more tweaks or details.
